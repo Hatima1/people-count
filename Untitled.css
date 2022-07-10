@@ -1,0 +1,42 @@
+body{
+   background-color: rgb(200, 211, 228);
+}
+.x{
+    height: 300px;
+    width: 250px;
+    background-color: rgba(138, 138, 80, 0.445);
+    margin-left: 400px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: rgb(85, 82, 82) 1px 1px 1px 1px;
+}
+h1{
+   text-align: center;
+}
+h2{
+    text-align: center;
+ }
+ button{
+     
+    
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(83, 83, 83);
+    width: 200px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+
+}
+#save2{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+ #btn1{
+     background-color: rgb(184, 42, 42);
+ }
+ #btn2{
+     background-color: rgb(0, 255, 136);
+ }
